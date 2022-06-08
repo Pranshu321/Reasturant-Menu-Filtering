@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reasturant-Menu-Filtering/static/css/main.1a5388cc.css",
+    "main.js": "/Reasturant-Menu-Filtering/static/js/main.87115c0e.js",
+    "index.html": "/Reasturant-Menu-Filtering/index.html",
+    "main.1a5388cc.css.map": "/Reasturant-Menu-Filtering/static/css/main.1a5388cc.css.map",
+    "main.87115c0e.js.map": "/Reasturant-Menu-Filtering/static/js/main.87115c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5388cc.css",
+    "static/js/main.87115c0e.js"
+  ]
+}
