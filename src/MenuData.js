@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "../img/chole.jpg",
+      image: "img/chole.jpg",
       name: "Chole",
       category: "lunch",
       price: "70₹",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../img/pizza.jpg",
+      image: "img/pizza.jpg",
       name: "Pizza",
       category: "evening",
       price: "195₹",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../img/nonvegthali.jpg",
+      image: "img/nonvegthali.jpg",
       name: "Veg Thali",
       category: "dinner",
       price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "../img/sweet.jpg",
+      image: "img/sweet.jpg",
       name: "Sweets Platter",
       category: "dinner",
       price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "../img/samosa.jpg",
+      image: "img/samosa.jpg",
       name: "Samosa",
       category: "evening",
       price: "10₹",
@@ -83,7 +83,7 @@ const Menu = [
     },
     {
       id: 10,
-      image: "../img/shahi.jpg",
+      image: "img/shahi.jpg",
       name: "Shahi Panner",
       category: "dinner",
       price: "120₹",
@@ -92,7 +92,7 @@ const Menu = [
     },
     {
       id: 11,
-      image: "../img/coffee.jpg",
+      image: "img/coffee.jpg",
       name: "Coffee",
       category: "breakfast",
       price: "50₹",
@@ -101,7 +101,7 @@ const Menu = [
     },
     {
       id: 13,
-      image: "/img/mix.jpg",
+      image: "img/mix.jpg",
       name: "Mix Veg",
       category: "lunch",
       price: "90₹",
