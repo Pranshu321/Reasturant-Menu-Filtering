@@ -20,7 +20,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "https://pranshu321.github.io/Reasturant-Menu-Filtering/img/corn.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9ZQtne6tjByvIhHLBvbZHvFqewPWRry2LQ&usqp=CAU",
     name: "Sweet Corn",
     category: "breakfast",
     price: "10₹",
