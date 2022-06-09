@@ -1,7 +1,7 @@
 const Menu = [
     {
       id: 1,
-      image: "img/maggi.jpg",
+      image: "./img/maggi.jpg",
       name: "Maggi",
       category: "breakfast",
       price: "14₹",
@@ -65,7 +65,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "../img/rajmachawal.jpg",
+      image: "img/rajmachawal.jpg",
       name: "Rajma Chawal",
       category: "lunch",
       price: "60₹",
@@ -101,7 +101,7 @@ const Menu = [
     },
     {
       id: 13,
-      image: "../img/mix.jpg",
+      image: "/img/mix.jpg",
       name: "Mix Veg",
       category: "lunch",
       price: "90₹",
